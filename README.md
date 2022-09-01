@@ -1,7 +1,6 @@
 # Heal-Lab
 
-This is a Web app for Diagnostic Center. User can get idea about packages and clear visualization of services. One can easily reach the 8 branches from contact information. 
-<br/> To view the site click here - https://heal-lab.web.app/
+This is a Web app for Diagnostic Center. User can get idea about packages and clear visualization of services. One can easily reach the 8 branches from contact information.
 
 ## Key features:
 - User can get idea about packages.
