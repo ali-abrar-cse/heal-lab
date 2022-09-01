@@ -1,0 +1,12 @@
+.title{
+    height: 55px;
+}
+.list{
+    list-style-type: none;
+}
+.detail{
+    text-decoration: none;
+}
+.detail:hover{
+    text-decoration: underline;
+}
