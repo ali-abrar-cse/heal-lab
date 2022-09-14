@@ -1,4 +1,4 @@
-# Heal-Lab
+# Heal Lab
 
 This is a Web app for Diagnostic Center. User can get idea about packages and clear visualization of services. One can easily reach the 8 branches from contact information.
 
